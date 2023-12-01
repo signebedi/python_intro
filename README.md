@@ -106,4 +106,8 @@ All resources and problem sets are optional unless marked as *(required)*.
 ### Out of Class Group Conferences #2
 - **Signup**: placeholder
 
+### Module 4.1 - Outside Guest Speaker/s
+- Guest Speaker: placeholder
 
+### Module 4.2 - Course Review
+- **Lecture Slides:** placeholder
