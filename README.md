@@ -25,6 +25,13 @@ All resources and problem sets are optional unless marked as *(required)*.
 - **Problem Set 1.3.1** - Create a Github account *(required)*
 - **Problem Set 1.3.2** - Clone the [Course Repository](https://github.com/signebedi/python_intro) *(required)*
 - **Resources:**
+  - Videos
+    - [FreeCodeCamp Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk) - Please note, this is more comprehensive than we need for this course. You are welcome to review the entire video, but will likely find the first 30 minutes to be the most useful.
+    - [Programming with Mosh Git Introduction](https://www.youtube.com/watch?v=8JJ101D3knE)
+  - Text
+    - [W3Schools Git and GitHub Introduction](https://www.w3schools.com/git/git_intro.asp?remote=github)
+    - [GeeksForGeeks Ultimate Guide to Git and Github](https://www.geeksforgeeks.org/ultimate-guide-git-github/)
+    - Github [Git Intro](https://docs.github.com/en/get-started/using-git/about-git) and [Getting Started](https://docs.github.com/en/get-started/quickstart/hello-world) *(required)*
   - Computer Science as a Discipline
     - [Agile Manifesto](https://agilemanifesto.org/principles.html)
     - [Email vs Capitalism, or, Why We Can't Have Nice Things](https://www.youtube.com/watch?v=mrGfahzt-4Q)
