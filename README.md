@@ -16,7 +16,7 @@ All resources and problem sets are optional unless marked as *(required)*.
 
 ### Module 1.2 - Pip and Anaconda
 - **Lecture Slides:** placeholder
-- **Problem Set 1.2** - install Anaconda *(required)*
+- **Problem Set 1.2.1** - install Anaconda *(required)*
 - **Resources:**
   - placeholder
 
@@ -34,14 +34,14 @@ All resources and problem sets are optional unless marked as *(required)*.
 
 ### Module 1.4 - Virtual Environments
 - **Lecture Slides:** placeholder
-- **Problem Set 1.4** - Create a virtual environment *(required)*
+- **Problem Set 1.4.1** - Create a virtual environment *(required)*
 - **Resources:**
   - placeholder
 
 ## Unit 2 - Python Syntax, Paradigms, and Libraries
 
 ### Out of Class Group Conferences #1
-- Signup: placeholder
+- **Signup**: placeholder
 
 ### Module 2.1 - Variables and Paradigms
 - **Lecture Slides:** placeholder
@@ -53,7 +53,7 @@ All resources and problem sets are optional unless marked as *(required)*.
 
 ### Module 2.2 - Functions and Functional Programming
 - **Lecture Slides:** placeholder
-- **Problem Set 2.2** - placeholder
+- **Problem Set 2.2.1** - placeholder
 - **Resources:**
   - placeholder
 
@@ -77,19 +77,19 @@ All resources and problem sets are optional unless marked as *(required)*.
 
 ### Module 3.1 - Numpy
 - **Lecture Slides:** placeholder
-- **Problem Set 3.1** - placeholder
+- **Problem Set 3.1.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 3.2 - Pandas
 - **Lecture Slides:** placeholder
-- **Problem Set 3.2** - placeholder
+- **Problem Set 3.2.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 3.3 - Matplotlib and Plotly
 - **Lecture Slides:** placeholder
-- **Problem Set 3.3** - placeholder
+- **Problem Set 3.3.1** - placeholder
 - **Resources:**
   - placeholder
 
@@ -97,6 +97,6 @@ All resources and problem sets are optional unless marked as *(required)*.
 - **Lecture Slides:** placeholder
 
 ### Out of Class Group Conferences #2
-- Signup: placeholder
+- **Signup**: placeholder
 
 
