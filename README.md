@@ -3,7 +3,7 @@ Python Introduction course repository
 
 # Course Curriculum
 
-All resources and problem sets are optional unless marked as *(required)*.
+All resources and problem sets are optional unless marked as *(required)*. Before the first week in class, please fill out the survey at *** placeholder to facilitate the creation of study groups constituting a mix of student backgrounds, experiences, and areas of study.
 
 ## Unit 1 - Environment Setup
 
