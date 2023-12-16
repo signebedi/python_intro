@@ -101,6 +101,13 @@ All resources and problem sets are optional unless marked as *(required)*.
 - **Resources:**
   - placeholder
 
+### Module 3.4 - Data Sources
+- **Lecture Slides:** placeholder
+- **Problem Set 3.4.1** - SQL and CSV
+- **Problem Set 3.4.2** - NoSQL and JSON
+- **Resources:**
+  - placeholder
+
 ## Unit 4 - Final Project
 - **Lecture Slides:** placeholder
 
