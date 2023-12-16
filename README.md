@@ -38,6 +38,7 @@ All resources and problem sets are optional unless marked as *(required)*.
     - [Homesteading the Noosphere](https://archive.org/details/The_Cathedral_and_the_Bazaar_)
     - [The Cathedral and the Bazaar](https://archive.org/details/homesteading-the-noosphere)
     - [Mythical Man-Month, excerpt](https://archive.org/details/MythicalManMonth)
+    - [The Software Developer "Shortage" and its solutions](https://youtu.be/KNTWhNctGZ4?si=ODC3-vSbqUGouix5)
 
 ### Module 1.4 - Virtual Environments
 - **Lecture Slides:** placeholder
