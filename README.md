@@ -103,8 +103,9 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 
 ### Module 3.4 - Data Sources
 - **Lecture Slides:** placeholder
-- **Problem Set 3.4.1** - SQL and CSV
-- **Problem Set 3.4.2** - NoSQL and JSON
+- **Problem Set 3.4.1** - Relational Data: SQL and CSV
+- **Problem Set 3.4.2** - Document Data: NoSQL and JSON
+- **Problem Set 3.4.3** - Graph Data: Neo4j and Surreal
 - **Resources:**
   - placeholder
 
