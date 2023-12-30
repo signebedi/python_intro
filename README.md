@@ -3,25 +3,25 @@ Python Introduction course repository
 
 # Course Curriculum
 
-All resources and problem sets are optional unless marked as *(required)*. Before the first week in class, please fill out the survey at *** placeholder to facilitate the creation of study groups constituting a mix of student backgrounds, experiences, and areas of study.
+All resources and problem sets are optional unless marked as *(required)*. Before the first week in class, please fill out the survey at *** placeholder to facilitate the creation of study groups constituting a mix of student backgrounds, experiences, and areas of study. Lecture Notes will generally come in two formats: markdown slides and Jupyter Notebooks. You can read the markdown slides directly in GitHub, where each horizontal rule separates two slides (see [here](https://www.markdownguide.org/cheat-sheet/) for a quick markdown reference). Likewise, you can review Jupyter Notebooks from within GitHub (but, if you're having difficulty viewing them, you can paste the link to the page [here](https://nbviewer.org/) and it should render properly) as well as in VSCode (when you are running the [Jupyter Extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). We will spend the first class discussing how to make effective use of Lecture Notes and the Curriculum below.
 
 ## Unit 1 - Environment Setup
 
 ### Module 1.1 - VSCode
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 1.1.1** - install VSCode *(required)*
 - **Problem Set 1.1.2** - Python “Hello World!”
 - **Resources:**
   - placeholder
 
 ### Module 1.2 - Pip and Anaconda
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 1.2.1** - install Anaconda *(required)*
 - **Resources:**
   - placeholder
 
 ### Module 1.3 - Github
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 1.3.1** - Create a Github account *(required)*
 - **Problem Set 1.3.2** - Clone the [Course Repository](https://github.com/signebedi/python_intro) *(required)*
 - **Resources:**
@@ -41,7 +41,7 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
     - [The Software Developer "Shortage" and its solutions](https://youtu.be/KNTWhNctGZ4?si=ODC3-vSbqUGouix5)
 
 ### Module 1.4 - Virtual Environments
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 1.4.1** - Create a virtual environment *(required)*
 - **Resources:**
   - placeholder
@@ -52,7 +52,7 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 - **Signup**: placeholder
 
 ### Module 2.1 - Variables and Paradigms
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 2.1.1** - “labeling” and “referencing” objects
 - **Problem Set 2.1.2** - Using the `requests` library
 - **Problem Set 2.1.3** - Using the `os` library
@@ -60,13 +60,13 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
   - [Paradigms](https://www.geeksforgeeks.org/programming-paradigms-in-python/)
 
 ### Module 2.2 - Functions and Functional Programming
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 2.2.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 2.3 - Types and Data Structures
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 2.3.1** - Python Types and the `typing` library
 - **Resources:**
   - [Typing Library](https://docs.python.org/3/library/typing.html)
@@ -75,14 +75,14 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
   - placeholder
 
 ### Module 2.4 - Flow Control
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 2.4.1** - For- and While- Loops
 - **Problem Set 2.4.2** - If Statements and Operators
 - **Resources:**
   - [Types of Operators in Python](https://www.w3schools.com/python/python_operators.asp)
 
 ### Module 2.5 - Classes and Object Oriented Programming
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 2.5.1** - Classes and Methods
 - **Problem Set 2.5.2** - Inheritance
 - **Resources:**
@@ -92,25 +92,25 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 ## Unit 3 - Data Science Libraries
 
 ### Module 3.1 - Numpy
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 3.1.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 3.2 - Pandas
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 3.2.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 3.3 - Matplotlib and Plotly
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 3.3.1** - placeholder
 - **Resources:**
   - placeholder
 
 ### Module 3.4 - Data Sources
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 - **Problem Set 3.4.1** - Relational Data: SQL and CSV
 - **Problem Set 3.4.2** - Document Data: NoSQL and JSON
 - **Problem Set 3.4.3** - Graph Data: Neo4j and Surreal
@@ -118,7 +118,7 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
   - placeholder
 
 ## Unit 4 - Final Project
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
 
 ### Out of Class Group Conferences #2
 - **Signup**: placeholder
@@ -127,4 +127,4 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 - Guest Speaker: placeholder
 
 ### Module 4.2 - Course Review
-- **Lecture Slides:** placeholder
+- **Lecture Notes:** placeholder
