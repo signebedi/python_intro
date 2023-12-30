@@ -79,14 +79,14 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 - **Problem Set 2.4.1** - For- and While- Loops
 - **Problem Set 2.4.2** - If Statements and Operators
 - **Resources:**
-  - placeholder
+  - [Types of Operators in Python](https://www.w3schools.com/python/python_operators.asp)
 
 ### Module 2.5 - Classes and Object Oriented Programming
 - **Lecture Slides:** placeholder
 - **Problem Set 2.5.1** - Classes and Methods
 - **Problem Set 2.5.2** - Inheritance
 - **Resources:**
-  - [Types of Operators in Python](https://www.w3schools.com/python/python_operators.asp)
+  - placeholder
 
 
 ## Unit 3 - Data Science Libraries
