@@ -7,6 +7,8 @@ All resources and problem sets are optional unless marked as *(required)*. Befor
 
 In addition to Lecture Notes, I will generally post digital Problem Sets and Resources - again, all of these are optional unless marked as *(required)*. Problem Sets will, in all cases, be written as Jupyter Notebooks. You should be able to read these in the browser, using Jupyter through your Anaconda Python installation, and/or in VSCode using the Jupyter plugin. These are written in such a way that you should be able to fill in your answers at the bottom of the Jupyter Notebook. Resources are a collection of reference material that may be useful to you when internalizing some of the concepts we are discussion in class. 
 
+One of the great things about programming is that there are a variety of ways to solve the same problem. Notwithstanding some solutions are more 'efficient' or 'paradigmatic' than others, the difference very often comes down to readability, simplicity, and intuitiveness. Often, my model solutions to our problem sets will fall short of the very best (read: efficient, paradigmatic) way to write the solution - because my goal in this class is to provide solutions that will be the most intellectually accessible, syntactically clear, and generally applicable for participants that may not have a computer science background. As such, I am not asking you to provide 'perfect' solutions, and indeed will often provide imperfect solutions myself, instead placing a premium on 'working code' that 'gets the job done'.
+
 ## Unit 1 - Environment Setup
 
 ### Module 1.1 - VSCode
