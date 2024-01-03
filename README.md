@@ -5,11 +5,13 @@ Python Introduction course repository
 
 All resources and problem sets are optional unless marked as *(required)*. Before the first week in class, please fill out the survey at *** placeholder to facilitate the creation of study groups constituting a mix of student backgrounds, experiences, and areas of study. Lecture Notes will generally come in two formats: markdown slides and Jupyter Notebooks. You can read the markdown slides directly in GitHub, where each horizontal rule separates two slides (see [here](https://www.markdownguide.org/cheat-sheet/) for a quick markdown reference). Likewise, you can review Jupyter Notebooks from within GitHub (but, if you're having difficulty viewing them, you can paste the link to the page [here](https://nbviewer.org/) and it should render properly) as well as in VSCode (when you are running the [Jupyter Extension](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). We will spend the first class discussing how to make effective use of Lecture Notes and the Curriculum below.
 
+In addition to Lecture Notes, I will generally post digital Problem Sets and Resources - again, all of these are optional unless marked as *(required)*. Problem Sets will, in all cases, be written as Jupyter Notebooks. You should be able to read these in the browser, using Jupyter through your Anaconda Python installation, and/or in VSCode using the Jupyter plugin. These are written in such a way that you should be able to fill in your answers at the bottom of the Jupyter Notebook. Resources are a collection of reference material that may be useful to you when internalizing some of the concepts we are discussion in class. 
+
 ## Unit 1 - Environment Setup
 
 ### Module 1.1 - VSCode
 - **Lecture Notes:** placeholder
-- **Problem Set 1.1.1** - install VSCode *(required)*
+- **Problem Set 1.1.1** - install VSCode or VSCodium *(required)*
 - **Problem Set 1.1.2** - Python “Hello World!”
 - **Resources:**
   - placeholder
