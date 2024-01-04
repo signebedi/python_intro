@@ -68,7 +68,7 @@ Python has an extensive community of developers and users. As a result, there is
 
 ### Module 2.2 - Functions and Functional Programming
 - **Lecture Notes:** placeholder
-- **Problem Set 2.2.1** - placeholder
+- **Problem Set 2.2.1** - (2-2/2-2-1.ipynb)
 - **Resources:**
   - placeholder
 
@@ -90,8 +90,8 @@ Python has an extensive community of developers and users. As a result, there is
 
 ### Module 2.5 - Classes and Object Oriented Programming
 - **Lecture Notes:** placeholder
-- **Problem Set 2.5.1** - Classes and Methods
-- **Problem Set 2.5.2** - Inheritance
+- **Problem Set 2.5.1** - [Create a class for a circle](2-5/2-5-1.ipynb)
+- **Problem Set 2.5.2** - [Create a circle through inheritance](2-5/2-5-2.ipynb)
 - **Resources:**
   - Python's Class Development Toolkit https://www.youtube.com/watch?v=HTLu2DFOdTg (An old, but good, discussion of principles in python classes by Raymond Hettinger)
 
