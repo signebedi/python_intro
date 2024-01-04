@@ -93,7 +93,7 @@ Python has an extensive community of developers and users. As a result, there is
 - **Problem Set 2.5.1** - Classes and Methods
 - **Problem Set 2.5.2** - Inheritance
 - **Resources:**
-  - placeholder
+  - Python's Class Development Toolkit https://www.youtube.com/watch?v=HTLu2DFOdTg (An old, but good, discussion of principles in python classes by Raymond Hettinger)
 
 
 ## Unit 3 - Data Science Libraries
