@@ -9,12 +9,15 @@ In addition to Lecture Notes, I will generally post digital Problem Sets and Res
 
 One of the great things about programming is that there are a variety of ways to solve the same problem. Notwithstanding some solutions are more 'efficient' or 'paradigmatic' than others, the difference very often comes down to readability, simplicity, and intuitiveness. Often, my model solutions to our problem sets will fall short of the very best (read: efficient, paradigmatic) way to write the solution - because my goal in this class is to provide solutions that will be the most intellectually accessible, syntactically clear, and generally applicable for participants that may not have a computer science background. As such, I am not asking you to provide 'perfect' solutions, and indeed will often provide imperfect solutions myself, instead placing a premium on 'working code' that 'gets the job done'.
 
+Python has an extensive community of developers and users. As a result, there is a substantial discourse over paradigms, conventions, and syntactical change. These are published in the Python Enhancement Proposals (PEPs), which can be found [online](https://peps.python.org/#) and are a good resource on the language, along with Stack Overview, Real Python, and W3Schools.
+
 ## Unit 1 - Environment Setup
 
-### Module 1.1 - VSCode
+### Module 1.1 - VSCode and IDEs
 - **Lecture Notes:** placeholder
 - **Problem Set 1.1.1** - install VSCode or VSCodium *(required)*
 - **Problem Set 1.1.2** - Python “Hello World!”
+- **Problem Set 1.1.3** - using [replit](https://replit.com) as an IDE
 - **Resources:**
   - placeholder
 
