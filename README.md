@@ -58,7 +58,7 @@ Python has an extensive community of developers and users. As a result, there is
 ### Out of Class Group Conferences #1
 - **Signup**: placeholder
 
-### Module 2.1 - Variables and Paradigms
+### Module 2.1 - Variables, Libraries, and Paradigms
 - **Lecture Notes:** placeholder
 - **Problem Set 2.1.1** - “labeling” and “referencing” objects
 - **Problem Set 2.1.2** - Using the `requests` library
@@ -68,7 +68,7 @@ Python has an extensive community of developers and users. As a result, there is
 
 ### Module 2.2 - Functions and Functional Programming
 - **Lecture Notes:** placeholder
-- **Problem Set 2.2.1** - (2-2/2-2-1.ipynb)
+- **Problem Set 2.2.1** - [Adding values between a range](2-2/2-2-1.ipynb)
 - **Resources:**
   - placeholder
 
@@ -125,7 +125,7 @@ Python has an extensive community of developers and users. As a result, there is
   - placeholder
 
 ## Unit 4 - Final Project
-- **Lecture Notes:** placeholder
+- **Project Plan:** [Template](final_project_plan.ipynb)
 
 ### Out of Class Group Conferences #2
 - **Signup**: placeholder
@@ -135,3 +135,7 @@ Python has an extensive community of developers and users. As a result, there is
 
 ### Module 4.2 - Course Review
 - **Lecture Notes:** placeholder
+
+
+#### Acknowledgements
+I worked closely with [Dr. Sam Hulse](https://svhulse.github.io/) in the development of this curriculum and owe him many thanks for his suggestions on teaching methods, topics, and the development of problem sets.
