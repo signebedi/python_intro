@@ -56,7 +56,7 @@ Python has an extensive community of developers and users. As a result, there is
 ## Unit 2 - Python Syntax, Paradigms, and Libraries
 
 ### Out of Class Group Conferences #1
-- **Signup**: placeholder
+- **Signup**: https://github.com/signebedi/python_intro/issues/2
 
 ### Module 2.1 - Variables, Libraries, and Paradigms
 - **Lecture Notes:** placeholder
@@ -128,7 +128,7 @@ Python has an extensive community of developers and users. As a result, there is
 - **Project Plan:** [Template](final_project_plan.ipynb)
 
 ### Out of Class Group Conferences #2
-- **Signup**: placeholder
+- **Signup**: https://github.com/signebedi/python_intro/issues/3
 
 ### Module 4.1 - Outside Guest Speaker/s
 - Guest Speaker: placeholder
@@ -137,5 +137,5 @@ Python has an extensive community of developers and users. As a result, there is
 - **Lecture Notes:** placeholder
 
 
-#### Acknowledgements
+## Acknowledgements
 I worked closely with [Dr. Sam Hulse](https://svhulse.github.io/) in the development of this curriculum and owe him many thanks for his suggestions on teaching methods, topics, and the development of problem sets.
