@@ -41,6 +41,8 @@ One of the great things about programming is that there are a variety of ways to
 
 Python has an extensive community of developers and users. As a result, there is a substantial discourse over paradigms, conventions, and syntactical change. These are published in the Python Enhancement Proposals (PEPs), which can be found [online](https://peps.python.org/#) and are a good resource on the language, along with Stack Overview, Real Python, and W3Schools.
 
+*** The best way to approach this course is to create a github account and clone this repository. When you work on the final group project, you should write your code either in a separate repository or in one group member's clone of this repository.
+
 
 ## Unit 1 - Environment Setup
 
@@ -129,13 +131,13 @@ Python has an extensive community of developers and users. As a result, there is
 
 ## Unit 3 - Data Science Libraries
 
-### Module 3.1 - Numpy
+### Module 3.1 - Basics of Python Libraries
 - **Lecture Notes:** placeholder
 - **Problem Set 3.1.1** - placeholder
 - **Resources:**
   - placeholder
 
-### Module 3.2 - Pandas
+### Module 3.2 - Numpy and Pandas
 - **Lecture Notes:** placeholder
 - **Problem Set 3.2.1** - placeholder
 - **Resources:**
@@ -158,13 +160,22 @@ Python has an extensive community of developers and users. As a result, there is
 ## Unit 4 - Final Project
 - **Project Plan:** [Template](final_project_plan.ipynb)
 
+### Module 4.1 - Testing Assumptions
+- **Lecture Notes:** placeholder
+- **Problem Set 4.1.1** - Using `assert` and `try/except` statements
+- **Problem Set 4.1.2** - Writing and raising `Exceptions`
+- **Problem Set 4.1.3** - Writing a Basic Test Suite
+- **Resources:**
+  - Python Assertions https://realpython.com/python-assert-statement/
+
+
 ### Out of Class Group Conferences #2
 - **Signup**: https://github.com/signebedi/python_intro/issues/3
 
-### Module 4.1 - Outside Guest Speaker/s
+### Module 4.2 - Outside Guest Speaker/s
 - Guest Speaker: placeholder
 
-### Module 4.2 - Course Review
+### Module 4.3 - Course Review
 - **Lecture Notes:** placeholder
 
 
