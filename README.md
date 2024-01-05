@@ -21,6 +21,7 @@ Through careful engagement with the course materials, classroom discussion, exte
 5. To understand the basics of python data types.
 6. To understand how to use python builtin and community libraries - especially data science libraries like numpy, pandas, and matplotlib. 
 7. To understand how different data storage systems like CSV, databases, and JSON work and when it makes sense to use each.
+8. To understand how to understand assumptions and test these to ensure code reliability.
 
 # Student Evaluation
 
@@ -89,7 +90,7 @@ Python has an extensive community of developers and users. As a result, there is
 ## Unit 2 - Python Syntax, Paradigms, and Libraries
 
 ### Out of Class Group Conferences #1
-- **Signup**: https://github.com/signebedi/python_intro/issues/2
+- [**Signup Here**](https://github.com/signebedi/python_intro/issues/2)
 
 ### Module 2.1 - Variables and Paradigms
 - **Lecture Notes:** placeholder
@@ -105,14 +106,13 @@ Python has an extensive community of developers and users. As a result, there is
 - **Resources:**
   - placeholder
 
-### Module 2.3 - Types and Data Structures
+### Module 2.3 - Data Types and Data Structures
 - **Lecture Notes:** placeholder
 - **Problem Set 2.3.1** - Python Types and the `typing` library
-- **Resources:**
-  - [Typing Library](https://docs.python.org/3/library/typing.html)
 - **Problem Set 2.3.2** - Lists, Dictionaries, and JSON
 - **Resources:**
-  - placeholder
+  - [Typing Library](https://docs.python.org/3/library/typing.html)
+  - [`if __name__=='__main__'`](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
 ### Module 2.4 - Flow Control
 - **Lecture Notes:** placeholder
@@ -126,7 +126,7 @@ Python has an extensive community of developers and users. As a result, there is
 - **Problem Set 2.5.1** - [Create a class for a circle](2-5/2-5-1.ipynb)
 - **Problem Set 2.5.2** - [Create a circle through inheritance](2-5/2-5-2.ipynb)
 - **Resources:**
-  - Python's Class Development Toolkit https://www.youtube.com/watch?v=HTLu2DFOdTg (An old, but good, discussion of principles in python classes by Raymond Hettinger)
+  - An old, but good, discussion of principles in python classes https://www.youtube.com/watch?v=HTLu2DFOdTg 
 
 
 ## Unit 3 - Data Science Libraries
@@ -158,7 +158,7 @@ Python has an extensive community of developers and users. As a result, there is
   - placeholder
 
 ## Unit 4 - Final Project
-- **Project Plan:** [Template](final_project_plan.ipynb)
+- [**Project Plan Template**](final_project_plan.ipynb)
 
 ### Module 4.1 - Testing Assumptions
 - **Lecture Notes:** placeholder
@@ -167,10 +167,12 @@ Python has an extensive community of developers and users. As a result, there is
 - **Problem Set 4.1.3** - Writing a Basic Test Suite
 - **Resources:**
   - Python Assertions https://realpython.com/python-assert-statement/
+  - Different ways to write a doctring https://stackoverflow.com/a/24385103/13301284
+  - Another resource for writing docstrings https://www.programiz.com/python-programming/docstrings
 
 
 ### Out of Class Group Conferences #2
-- **Signup**: https://github.com/signebedi/python_intro/issues/3
+- [**Signup Here**](https://github.com/signebedi/python_intro/issues/3)
 
 ### Module 4.2 - Outside Guest Speaker/s
 - Guest Speaker: placeholder
